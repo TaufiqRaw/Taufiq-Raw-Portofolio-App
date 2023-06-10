@@ -31,14 +31,19 @@ class WalkthroughActivity : AppCompatActivity() {
 
         val slides = arrayOf(
             WalkthroughSlide(
-                R.drawable.emerald,
+                R.drawable.walk_hello,
                 "Hello World",
-                "Whatsupp"
+                "This is an app that has been created by me to digitaly introduce myself"
             ),
             WalkthroughSlide(
-                R.drawable.emerald,
-                "Buenos dias",
-                "Mandy!"
+                R.drawable.walk_contact,
+                "Contact me",
+                "You can find my contact in the apps if you want to contact me"
+            ),
+            WalkthroughSlide(
+                R.drawable.walk_confirm,
+                "Lets Go",
+                "So, what are you waiting for?, let's jump straight into it!"
             ),
         )
 

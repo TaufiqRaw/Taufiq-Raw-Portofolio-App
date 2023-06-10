@@ -10,4 +10,11 @@
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="title_activity_view_page">ViewPageActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_title_file">TaufiqRaw/<b>README</b>.md</string>
+    <string name="activity_title_file">TaufiqRaw/activity/<b>README</b>.md</string>
+    <string name="gallery_title_file">TaufiqRaw/gallery/<b>README</b>.md</string>
+    <string name="music_title_file">TaufiqRaw/music/<b>README</b>.md</string>
+    <string name="profile_title_file">TaufiqRaw/profile/<b>README</b>.md</string>
 </resources>
